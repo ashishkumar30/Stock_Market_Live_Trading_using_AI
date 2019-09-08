@@ -9,7 +9,7 @@ As of 2019.
 
 * Files ()
 
-* 1. Getting Started with Zerodha ,Starting new project with zerodha :- Login to zerodha, Finding " Instrument Token list of zerodha, Finding a token from symbol,INPUTS, Getting HISTORICAL DATA,Getting continous data of stock,for last trade price of stock, for last ohlc of stock, FOR PLACING AN ORDER, Cancel an order, Exit from an order, Order Placed information, Open positions, Holdings you have, Websocket, Websocket threading, STATUS of order from websocket.
+1. Getting Started with Zerodha ,Starting new project with zerodha :- Login to zerodha, Finding " Instrument Token list of zerodha, Finding a token from symbol,INPUTS, Getting HISTORICAL DATA,Getting continous data of stock,for last trade price of stock, for last ohlc of stock, FOR PLACING AN ORDER, Cancel an order, Exit from an order, Order Placed information, Open positions, Holdings you have, Websocket, Websocket threading, STATUS of order from websocket.
 
 2. BACKTESTIG_PROGRAM == What is Backtesting?
 Zerodha backtesting is a trading strategy that is based on historical data, where traders use past data to see how a strategy would have performed. The definition of a backtesting application is a set of technical rules applied to a set of historical price data, and the subsequent analysis of the returns that a Zerodha strategy would have generated over a specific period of time.
