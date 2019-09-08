@@ -26,7 +26,6 @@ All these metrics provide you with insights about how your Zerodha trading strat
 3. Historical Data Download Code for any stock of Stock Market;- This code will download historical data of any stocks or multiple stocks in csv
 
 4.Stock_Screener (GUPPY)
-What is a Stock Screener?
 A stock screener is a tool to shortlist few companies from a pool of all the listed companies on a stock exchange using filters on the basis of indicator result (RSI,GUPPY,SMA,).shows the result of buy and sell stocks, which one is better option for buy or sell .
 The investors specify the filters and the stock screener gives the results accordingly. Stock screeners are very useful as it can save you a lot of time.
 You do not need to go through all the listed companies to shortlist few good ones. You can just apply the basic filter to get the list of few good ones that you want to investigate further. Overall, the stock screener will help you to find good performing stocks according to your specifications with a single click.
@@ -50,69 +49,25 @@ Usually, nine-day moving average of MACD is used for buy and sell calls. Buy whe
 https://economictimes.indiatimes.com/wealth/invest/7-stock-market-technical-indicators-that-can-help-you-invest/articleshow/63342749.cms?from=mdr
 
 6. Stock_Screener (GUPPY)
-What is a Stock Screener?
 A stock screener is a tool to shortlist few companies from a pool of all the listed companies on a stock exchange using filters on the basis of indicator result (RSI,GUPPY,SMA,).shows the result of buy and sell stocks, which one is better option for buy or sell .
 The investors specify the filters and the stock screener gives the results accordingly. Stock screeners are very useful as it can save you a lot of time.
 You do not need to go through all the listed companies to shortlist few good ones. You can just apply the basic filter to get the list of few good ones that you want to investigate further. Overall, the stock screener will help you to find good performing stocks according to your specifications with a single click.
 
-7.Trading Live BOT (1) == BUY-SELL BOT on RSI¶
 What is a Trading BOT ?
-A Zerodha trading robot is a computer program based on a set of indian trading signals that helps determine whether to buy or sell a currency pair at a given point in time. Zerodha robots are designed to remove the psychological element of trading, which can be detrimental. While trading systems can be purchased online, traders should exercise caution when buying them this way.
+* A Zerodha trading robot is a computer program based on a set of indian trading signals that helps determine whether to buy or sell a currency pair at a given point in time. Zerodha robots are designed to remove the psychological element of trading, which can be detrimental. While trading systems can be purchased online, traders should exercise caution when buying them this way.
 Trading bots are widely available programs that connect to a user’s indian exchange and make trades on their behalf. They work using a variety of indicators and signals, such as moving averages and indices. The idea is simple: to help users make money in the markets, while not wasting a lot of their time. The underlying assumption is that computers are much better at trading than humans could ever be, because trading is all about mathematics and complex calculations of probability.
-About this BOT
-This is the automated BUY and SELL code for zerodha , it will buy order and sell that order on indian exchange based on buy/sell strategy implemented on code.
-BOT STRATEGY:-
-Place an order when RSI is greater then 30,when high breaks next high,place BUY SL order on current high when BUY SL order implemented on ZERODHA place an order of SELL on lowest lowcand if RSI cross70:cancel the SELL SL bid place MARET order of BUY bid.Full strategy mention below.
-Import All libraries required for BOT
-8.Trading Live BOT (2) ==
+
+7.Trading Live BOT (1) == BUY-SELL BOT on RSI¶
+About this Trading BOT
+This is the automated BUY and SELL code for zerodha , it will buy order and sell that order on indian exchange based on buy/sell strategy implemented on code.Place an order when RSI is greater then 30,when high breaks next high,place BUY SL order on current high when BUY SL order implemented on ZERODHA place an order of SELL on lowest lowcand if RSI cross70:cancel the SELL SL bid place MARET order of BUY bid.Full strategy mention below.
+
+8.Trading Live BOT (2)
 About this Trading BOT
 This is a small program which first scan all the stocks using guppy Screener and sort all the buy and sell stocks in timeframe of 5, 10,15 minutes and shows the result. after it will find the common stock from all timeframe of buy and sell and then we have to enter a stock from above list to run the buy/sell program. and it will buy a stock on green signal from indicator and on red signal sell a stock 
 
 9. Trading Live BOT (3) == BUY-SELL bot on Guppy indicator 4 colours
-What is a Trading BOT ?
-A Zerodha trading robot is a computer program based on a set of indian trading signals that helps determine whether to buy or sell a currency pair at a given point in time. Zerodha robots are designed to remove the psychological element of trading, which can be detrimental. While trading systems can be purchased online, traders should exercise caution when buying them this way.
-
-Trading bots are widely available programs that connect to a user’s indian exchange and make trades on their behalf. They work using a variety of indicators and signals, such as moving averages and indices. The idea is simple: to help users make money in the markets, while not wasting a lot of their time. The underlying assumption is that computers are much better at trading than humans could ever be, because trading is all about mathematics and complex calculations of probability.
-
 About this Trading BOT
 This is the automated BUY and SELL code for zerodha , it will first scan all the tokens on guppy indicator using screener on 5 minute 15 minute and 30 minute and shows the result of buy sell from all 3 timeframe and after the token which is high priority of buy /sell will sort out and then we have to select on which stock we want to rrun our bot at which timefrme quantity and exchange. we can place order any stock which we want .
-
-GUPPY CONCEPT FOR THIS BOT?
-if GREEN:
-buy x amount                 -------------------------------------------------(A)
-if BLUE:
-check exection of (A)
-if (A) executed : SELL X/2               ------------------------------------(Z)
-if RED:
-if A executed: SELL 2X                                ------------------------(B)
-if A not exeecuted - cancel (A)
-                     sell X amount                    ------------------------(C)
-@ ** if will execute only when BLUE occurs , if Z bit is placed **
-Check execution of B:
-if (B) executed + if (Z) executed : SELL x/2 --------------- (Y)
-if (B) executed and if (Z) not executed : cancel (Z)   
-if AQUA:
-if (B) executed : BUY x/2    (MARKET)                   ---------------------(D)
-if (C) executed : BUY x/2    (MARKET)                  ----------------------(E)
-if GREEN:
-(PART A)
-    if (B) executed : BUY 2X                           -----------------------(F)
-        if (B) not executed:
-        cancel (B), and wait for RED
-(PART B)
-     if (C) executed : BUY 2X                         ------------------------(G)
-     if (C) not executed: 
-        cancel (C) , and wait for RED   
-@ ** if will execute only when AQUA occurs ** Check execution of G or F: (CASE A)
-      if (F) executed + if (D) executed : SELL x/2           --------------- (H)
-      if (F) executed and if (D) not executed : cancel (D)  
-(CASE B)
-    if (G) executed + if (E) executed : SELL x/2              --------------- (I)
-    if (G) executed and if (E) not executed : cancel (E)   
-if BLUE:
-if (F) executed: SELL x/2  (MARKET)
-if (G) executed : SELL x/2 (MARKET)
-if RED: continue from red again:
 
 10.Trading Live BOT (4) == Advance Multiple bot of buy/sell in one BOT with screener, backtestig
 About this Trading BOT
