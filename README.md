@@ -55,4 +55,3 @@ BOT STRATEGY:-This is an advance bot , this code start buy trade on when indicat
 11. Trading Live BOT (5)== FULL automated bot on GUPPY indicator
 About this Trading BOT
 start bot with 2 inputs of buy/sell and timeframe then it will scan all the stock and automatically pick the best stock among all the stock and place order on the best stock and continue with it . if u want to run bot you can continue bot without scanning and run normal bot also.
-
