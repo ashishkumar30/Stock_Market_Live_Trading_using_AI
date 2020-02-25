@@ -4,7 +4,7 @@
 
 * This project is based on Online trading using Artificial Intelligence Machine leaning with python on Indian Stock Market, trading using live bots indicators screener and backtesters using rest api and websocket on zerodha kite.
 
-* Zerodha    - Automated Python program for trading in Indian stock market.  
+* Zerodha    - online broker for Automated Python program for trading in Indian stock market.  
 
 1. Getting Started with Zerodha ,Starting new project with zerodha .
 2. BACKTESTIG_PROGRAM == What is Backtesting?
