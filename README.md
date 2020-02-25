@@ -18,4 +18,4 @@
   9. Trading Live BOT  (3) == Automated bot of BUY-SELL bot on Guppy indicator 4 colours
   10. Trading Live BOT (4) == Advance Multiple bot of buy/sell in one BOT with screener, backtestig
 # Acknowledgement and Disclaimer #
-These all code are for information, knowledge and presentation purpose only, developed by ashish kumar-software developer  (2018-2019)  while working in "Angel virtual world pvt ltd", and are the property of  "Angel virtual world pvt ltd  B-93, Unity Tower, 3rd Floor Mayapuri Industrial Area Phase I, New Delhi, Delhi 110064 ". 
+These all code are for information, knowledge and presentation purpose only, developed by ashish kumar-software developer while working on project zeroddha in "Angel virtual world pvt ltd" (2018-2019) , and are the property of "Angel virtual world pvt ltd. B-93, Unity Tower, 3rd Floor Mayapuri Industrial Area Phase I, New Delhi, Delhi 110064 ". 
