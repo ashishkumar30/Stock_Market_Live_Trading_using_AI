@@ -1,6 +1,6 @@
 # Zerodha_Live_Automate_Trading-_using_AI_ML_on_Indian_stock_market
 
-Codes are too long please Downlad all codes from here : https://github.com/ashishkumar30/Zerodha_Live_Automate_Trading-_using_AI_ML_on_Indian_stock_market-using-basic-python/blob/master/All%20codes%20.zip
+some Codes are too long, if you are facing any error please Downlad all codes from here : https://github.com/ashishkumar30/Zerodha_Live_Automate_Trading-_using_AI_ML_on_Indian_stock_market-using-basic-python/blob/master/All%20codes%20.zip
 
 * This project is based on Online trading using Artificial Intelligence Machine leaning with python on Indian Stock Market, trading using live bots indicators screener and backtesters using rest api and websocket on zerodha kite.
 
