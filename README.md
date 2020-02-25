@@ -2,7 +2,7 @@
 
 #   Read file 'READ me' for all information of this Repositories      #
 
-* Online trading using Artificial Intelligence Machine leaning with python on Indian Stock Market, trading using live bots indicators screener and backtesters using rest api and websocket.
+* This project is based on Online trading using Artificial Intelligence Machine leaning with python on Indian Stock Market, trading using live bots indicators screener and backtesters using rest api and websocket on zerodha kite.
 
 * Zerodha    - Automated Python program for trading in Indian stock market.  
 
