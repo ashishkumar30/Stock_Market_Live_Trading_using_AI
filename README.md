@@ -13,6 +13,7 @@ some Codes are too long, if you are facing any error please Downlad all codes fr
 4.Stock_Screener (GUPPY)== What is Stock_Screener ?
 5.INDICATORS (ATR,RSI,SMA,EMA,Bollinger band ) on Historical_data 'SBI'
 6. Live_Trading_BOTS==What is a Trading BOT ?
+
 7.Trading Live BOT (1) == BUY-SELL BOT on RSI strategy
 8.Trading Live BOT (2)==GUPPY strategy bot
 9. Trading Live BOT (3) == automated bot of BUY-SELL bot on Guppy indicator 4 colours
