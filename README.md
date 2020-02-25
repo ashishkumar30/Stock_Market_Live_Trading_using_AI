@@ -1,9 +1,10 @@
 # Zerodha Live Automate Trading using AI ML on Indian stock market #
-# Sorry, something went wrong. Reload? #
-* some Codes are too long, if you are facing any error please Downlad all codes from here : https://github.com/ashishkumar30/Zerodha_Live_Automate_Trading-_using_AI_ML_on_Indian_stock_market-using-basic-python/blob/master/All%20codes%20.zip
 
 #  Disclaimer #
 These all code are for information, knowledge and presentation purpose only, developed by ashish kumar-software developer while working on project zerodha in "Angel virtual world pvt ltd" (2018-2019) , and are the property of "Angel virtual world pvt ltd. B-93, Unity Tower, 3rd Floor Mayapuri Industrial Area Phase I, New Delhi, Delhi 110064 ". 
+
+# Sorry, something went wrong. Reload? #
+* some Codes are too long, if you are facing any error please Downlad all codes from here : https://github.com/ashishkumar30/Zerodha_Live_Automate_Trading-_using_AI_ML_on_Indian_stock_market-using-basic-python/blob/master/All%20codes%20.zip
 
 # About the project # 
 * This project is based on Online trading using Artificial Intelligence Machine leaning with python on Indian Stock Market, trading using live bots indicators screener and backtesters using rest api and websocket on zerodha kite.
