@@ -15,5 +15,5 @@ some Codes are too long, if you are facing any error please Downlad all codes fr
 * 6.Live_Trading_BOTS == What is a Trading BOT ?
 * 7.Trading Live BOT  (1) == BUY-SELL BOT on RSI strategy
 * 8.Trading Live BOT  (2) == GUPPY strategy bot
-* 9. Trading Live BOT (3) == Automated bot of BUY-SELL bot on Guppy indicator 4 colours
+* 9.Trading Live BOT  (3) == Automated bot of BUY-SELL bot on Guppy indicator 4 colours
 * 10.Trading Live BOT (4) == Advance Multiple bot of buy/sell in one BOT with screener, backtestig
