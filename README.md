@@ -1,6 +1,6 @@
 # Zerodha_Live_Automate_Trading-_using_AI_ML_on_Indian_stock_market
 
-#  #####################       read file 'READ me' for all information                        ################## #
+#  #####################       read file 'READ me' for all information        #
 
 * Online trading using Artificial Intelligence Machine leaning with python on Indian Stock Market, trading using live bots indicators screener and backtesters using rest api and websocket.
 
