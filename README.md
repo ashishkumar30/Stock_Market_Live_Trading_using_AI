@@ -4,7 +4,7 @@
 These all code are for information, knowledge and presentation purpose only, developed by ashish kumar-software developer while working on project zerodha in "Angel virtual world pvt ltd" (2018-2019) , and are the asset of "Angel virtual world pvt ltd. B-93, Unity Tower, 3rd Floor Mayapuri Industrial Area Phase I, New Delhi, Delhi 110064 ". 
 
 ## Error in opening file ? ## 
-* Download all codes of this repository here: 
+* Download all codes of this repositorie here: 
 *  https://github.com/ashishkumar30/Zerodha_Live_Automate_Trading-_using_AI_ML_on_Indian_stock_market-using-basic-python/blob/master/0).%20All_codes_download.zip
 
 # About the project # 
