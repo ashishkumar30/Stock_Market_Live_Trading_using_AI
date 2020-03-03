@@ -1,7 +1,7 @@
 # Zerodha Live Automate Trading using AI ML on Indian stock market #
 
 #  Disclaimer #
-These all code are for information, knowledge and presentation purpose only, developed by ashish kumar-software developer while working on project zerodha in "Angel virtual world pvt ltd" (2018-2019) , and are the property of "Angel virtual world pvt ltd. B-93, Unity Tower, 3rd Floor Mayapuri Industrial Area Phase I, New Delhi, Delhi 110064 ". 
+These all code are for information, knowledge and presentation purpose only, developed by ashish kumar-software developer while working on project zerodha in "Angel virtual world pvt ltd" (2018-2019) , and are the asset of "Angel virtual world pvt ltd. B-93, Unity Tower, 3rd Floor Mayapuri Industrial Area Phase I, New Delhi, Delhi 110064 ". 
 
 
 # About the project # 
