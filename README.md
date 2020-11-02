@@ -6,10 +6,8 @@ Website - https://www.analyticaai.com/
 *  https://github.com/ashishkumar30/Zerodha_Live_Automate_Trading-_using_AI_ML_on_Indian_stock_market-using-basic-python/blob/master/0).%20All_codes_download.zip
 
 
-# website: https://www.analyticaai.com/
+## Zerodha Live Automate Trading using AI ML on Indian stock market #
 Online trading using Artificial Intelligence Machine leaning with basic python on Indian Stock Market, trading using live bots indicator screener and back tester using rest API and websocket.
-
-# Zerodha Live Automate Trading using AI ML on Indian stock market #
 
 # About the project # 
 * This project is based on Online trading using Artificial Intelligence Machine leaning with python on Indian Stock Market, trading using live bots indicators screener and backtesters using rest api and websocket on zerodha kite.
