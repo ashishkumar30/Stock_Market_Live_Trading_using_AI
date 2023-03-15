@@ -1,5 +1,5 @@
 # Zerodha Live Automate Trading using AI ML on Indian stock market #
-# College Major project Submitted for final year CSE, UIET Kuruskehtra University 2018
+## College Major project Submitted for final year CSE, UIET Kuruskehtra University 2018
 
 ## Error in opening file ? ## 
 * Download all codes of this repositorie here: 
